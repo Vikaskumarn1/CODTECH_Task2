@@ -6,7 +6,9 @@
 
 ![Screenshot 2024-09-01 100902](https://github.com/user-attachments/assets/2808807b-4e52-4f45-9a91-869c3fbeb466)
 
-Overview
+**Overview**
+
+
 This is a command-line based Library Management System written in Python. It allows for managing various library resources such as books, magazines, and DVDs. The system supports functionalities like adding new items to the library, checking out and returning items, managing overdue fines, and searching for items by title, author, or category. The system also tracks users and their borrowing history.
 
 Add Items: Supports adding books, magazines, and DVDs to the library collection.
