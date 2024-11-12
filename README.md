@@ -1,16 +1,5 @@
-**Library Management System**
+# Library Management System
 
-NAME:VIKAS KUMAR
-
-Company:CODETECH IT SOLUTIONS
-
-ID:CT6WDS1600
-
-Domain:Python programming
-
-Duration:6 weeks from August 5th,2024 to September 20th,2024
-
-Mentor:Muzammil Ahmed
 
 ![Screenshot 2024-09-01 100701](https://github.com/user-attachments/assets/b9d8cb07-fd95-4320-a013-24b52f845c1e)
 
